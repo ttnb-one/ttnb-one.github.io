@@ -8,7 +8,7 @@ tags:
 
 ---
 
-!(up and runing)[/img/202307/upruning.jpg]
+![up and runing](/img/202307/upruning.jpg)
 
 ## 打个招呼
 
