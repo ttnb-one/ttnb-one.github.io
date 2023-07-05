@@ -67,7 +67,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Life is too short，grab titties and beer。"
+sidebar-about-description: "Life is too short，grab titties and beer"
 sidebar-avatar: /img/avatar-ttnb.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
