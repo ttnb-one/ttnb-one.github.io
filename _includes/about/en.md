@@ -1,6 +1,10 @@
+> Lift is short，Tities and Beers.
 
-### 还没来得及改，以下信息是Fork的原有博主信息
-> To be, or not to be.
+TTNB is one of the majority ordinary people living in C-Country. He only wants to thinks with his own brain, but somehow it is some kind of inappropriate behaviour here due to his majesty's hard working. Therefore an anonymous
+blog must be setup.
 
+Why TTNB? TTNB stands for Tities and Beer, the direct happiness of straight male, and also, it represents the soul of free and easy attitude towards the shitness of life.
 
-Hi, I am Stephen Zhou, System engineer, worked in Microsoft OSD(Online Service Division) for 3 years, supporting MSN/ Bing Maps etc., currently working at Hujiang.com, which is a online education company.
+If anonymousness is a must, why not make it fascinating.
+
+Lift is short，Tities and Beers.
